@@ -1,0 +1,12 @@
+Package: dsinr
+License: GPL
+Title: dsinr
+Type: Package
+LazyLoad: yes
+Author: Jian Li <no-reply@jliblog.com>
+Maintainer: Jian Li <no-reply@jliblog.com>
+Description: dsinr
+Version: 0.1-142
+Date: 2013-05-01
+Depends: R (>= 2.12.0), methods
+
